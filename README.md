@@ -1,7 +1,9 @@
 🌙 Quran Tab
+
 ✨ Displays a beautiful Quran verse in every new tab
 
 🌟 Features
+
 📖 Random verses with translations
 
 🌓 Dark/light mode toggle
@@ -11,6 +13,7 @@
 🔖 Bookmark favorites
 
 ⬇️ Install
+
 📥 Download latest release
 
 📂 Unzip & load in browser

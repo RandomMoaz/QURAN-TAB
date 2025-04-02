@@ -14,7 +14,7 @@
 📥 Download latest release
 
 📂 Unzip & load in browser
-
+randommoaz.github.io/QURAN-TAB/
 🛠 Chrome/Edge:
 chrome://extensions → 🧑‍💻 Enable dev mode → "Load unpacked"
 
